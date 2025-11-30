@@ -22,5 +22,5 @@ This project requires the following Python libraries:
 - NumPy  
 - Matplotlib  
 
-Install them (if not installed) using:
+Install them (if not installed) using Terminal
 
